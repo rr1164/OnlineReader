@@ -1,0 +1,6 @@
+g++ -c User.cpp -o User.o 
+g++ -c Book.cpp -o Book.o 
+g++ -c Admin.cpp -o Admin.o 
+g++ -c BookDetails.cpp -o BookDetails.o 
+g++ -c main.cpp -o main.o
+./main.exe
